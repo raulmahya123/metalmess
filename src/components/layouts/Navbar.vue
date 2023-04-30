@@ -1,5 +1,4 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router'
 import Logo from './Logo.vue';
 import NavigationLinks from './NavigationLinks.vue';
 import UserInfo from './UserInfo.vue';
