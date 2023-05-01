@@ -13,11 +13,11 @@ const Items = ref([
       <div class="container px-4 mx-auto my-16 md:px-12">
     <h2 class="mb-4 text-xl font-medium md:mb-0 md:text-lg">New Item</h2>
     <div class="flex flex-wrap -mx-1 lg:-mx-4">
-        <ItemCard v-for="Items in Items" 
-        :key="Items.id" 
-        :title="Items.title" 
-        :description="Items.count"
-         :Image="Items.Image" />
+        <ItemCard v-for="Item in Items" 
+        :key="Item.id" 
+        :title="Item.title" 
+        :description="Item.count"
+         :Image="Item.Image" />
     </div>
 </div>
 </template>
