@@ -4,7 +4,7 @@ import Documentation from '@/components/autentication/features/Documentation.vue
 import Fortune from '@/components/autentication/features/Fortune.vue';
 </script>
 <template>
-    <Customizable/>
-                             <Fortune/>
-                             <Documentation/>
+    <Customizable />
+    <Fortune />
+    <Documentation />
 </template>
