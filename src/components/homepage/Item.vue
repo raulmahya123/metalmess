@@ -4,8 +4,8 @@ import {ref} from 'vue';
 const Items = ref([
     {id : 1,title: "Mobile UI", description:"Mobile UI", Image:"items-1.png"},
     {id : 2,title: "Fonts", description:"Mobile UI", Image:"items-2.png"},
-    {id : 3,title: "Icon Set" ,description:"Mobile UI", Image:"items-3.png"},
-    {id : 4,title: "Website UI Kit", description:"Mobile UI", Image:"items-3.png"} 
+    {id : 3,title: "Icon Set" ,description:"Mobile UI", Image:"items-2.png"},
+    {id : 4,title: "Website UI Kit", description:"Mobile UI", Image:"items-2.png"} 
 ])
 </script>
 

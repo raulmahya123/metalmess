@@ -14,7 +14,7 @@ import { RouterLink } from 'vue-router';
               <img 
               :alt="title" 
               class="block w-full h-auto" 
-              :src="'/src/assets/img/'+ Image" />
+              :src="'/img/'+ Image" />
             </div>
           </RouterLink>
 
