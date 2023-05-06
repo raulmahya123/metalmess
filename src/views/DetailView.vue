@@ -67,19 +67,19 @@ onMounted(() => {
                 <ul class="mb-6 text-gray-500">
                   <li class="mb-2">
                     Customizable layers
-                    <img src="/img/icon-check.png" class="float-right w-5 mt-1" alt="">
+                    <img src="../../public/img/icon-check.png" class="float-right w-5 mt-1" alt="">
                   </li>
                   <li class="mb-2">
                     Documentation
-                    <img src="/img/icon-check.png" class="float-right w-5 mt-1" alt="">
+                    <img src="../../public/img/icon-check.png" class="float-right w-5 mt-1" alt="">
                   </li>
                   <li class="mb-2">
                     Icon set design
-                    <img src="/img/icon-check.png" class="float-right w-5 mt-1" alt="">
+                    <img src="../../public/img/icon-check.png" class="float-right w-5 mt-1" alt="">
                   </li>
                   <li class="mb-2">
                     Pre-built UI screens
-                    <img src="/img/icon-check.png" class="float-right w-5 mt-1" alt="">
+                    <img src="../../public/img/icon-check.png" class="float-right w-5 mt-1" alt="">
                   </li>
                 </ul>
               </div>
