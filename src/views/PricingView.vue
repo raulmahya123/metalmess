@@ -101,7 +101,7 @@ import { RouterLink } from 'vue-router';
                     </li>
                     <li class="mb-3">
                       <img
-                        src="img/icon-check.png"
+                        src="/img/icon-check.png"
                         class="float-left w-6 mr-2"
                         alt=""
                       />
@@ -128,7 +128,7 @@ import { RouterLink } from 'vue-router';
                     </li>
                     <li class="mb-3">
                       <img
-                        src="img/icon-check.png"
+                        src="/img/icon-check.png"
                         class="float-left w-6 mr-2"
                         alt=""
                       />
@@ -137,7 +137,7 @@ import { RouterLink } from 'vue-router';
                     </li>
                     <li class="mb-3">
                       <img
-                        src="img/icon-check.png"
+                        src="/img/icon-check.png"
                         class="float-left w-6 mr-2"
                         alt=""
                       />
@@ -146,7 +146,7 @@ import { RouterLink } from 'vue-router';
                     </li>
                     <li class="mb-3">
                       <img
-                        src="img/icon-check.png"
+                        src="/img/icon-check.png"
                         class="float-left w-6 mr-2"
                         alt=""
                       />
@@ -155,7 +155,7 @@ import { RouterLink } from 'vue-router';
                     </li>
                     <li class="mb-3">
                       <img
-                        src="img/icon-check.png"
+                        src="/img/icon-check.png"
                         class="float-left w-6 mr-2"
                         alt=""
                       />
@@ -164,7 +164,7 @@ import { RouterLink } from 'vue-router';
                     </li>
                     <li class="mb-3">
                       <img
-                        src="img/icon-check.png"
+                        src="/img/icon-check.png"
                         class="float-left w-6 mr-2"
                         alt=""
                       />
