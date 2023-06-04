@@ -7,19 +7,19 @@
         <main class="mx-auto mt-10 max-w-7xl sm:mt-12 md:mt-16 lg:mt-20 xl:mt-36">
           <div class="sm:text-center lg:text-left">
             <h1 class="text-3xl font-bold leading-normal tracking-tight text-gray-900 sm:text-4xl md:text-5xl">
-              <span class="block lg:mb-2">Design Better &</span>
-              <span class="block">Faster Than Before.</span>
+              <span class="block lg:mb-2">SELAMAT DATANG</span>
+              <span class="block">DI FANCYPEDIA.</span>
             </h1>
             <p
               class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-              Accelerate your work with our millions
-              <span class="block lg:mb-1"></span> of ready-to-use design projects.
+              Baju Milenial dengan desain yang keren dan kekinian. Cocok untuk Anak Muda Indonesia.
+              <span class="block lg:mb-1"></span> proyek desain siap pakai.
             </p>
             <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
               <div class="rounded-full">
                 <a href="#categories"
                   class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-white bg-indigo-600 border border-transparent rounded-full hover:bg-indigo-700 md:py-2 md:text-lg md:px-10 hover:shadow">
-                  Browse Now
+                  PELAJARI LEBIH LANJUT
                 </a>
               </div>
             </div>

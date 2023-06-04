@@ -11,8 +11,8 @@ import { RouterLink } from 'vue-router';
         >
           <div class="w-full p-5 mx-auto mt-10 md:max-w-7xl">
             <h2 class="mb-4 text-5xl font-bold text-center">
-              <span class="block lg:mb-2">Friendly Pricing,</span>
-              <span class="block">High Quality Design</span>
+              <span class="block lg:mb-2">HARGA MURAH</span>
+              <span class="block">DESIGN KEREN</span>
             </h2>
             <p class="mb-5 text-lg text-center text-gray-500">
               Working faster and better than before
@@ -23,7 +23,7 @@ import { RouterLink } from 'vue-router';
               <div>
                 <div class="p-8 border rounded-3xl">
                   <h1 class="text-5xl font-semibold">
-                    IDR 2,000 <span class="text-xl font-light text-gray-500">/month</span>
+                    IDR 150K <span class="text-xl font-light text-gray-500">/SILVER</span>
                   </h1>
                   <h2 class="text-lg font-semibold mt-7">Basic Plan</h2>
                   <p class="mb-6 text-gray-500">Suitable for new team</p>
@@ -34,7 +34,7 @@ import { RouterLink } from 'vue-router';
                         class="float-left w-6 mr-2"
                         alt=""
                       />
-                      Customizable layers
+                      DISKON 5%
                       
                     </li>
                     <li class="mb-3">
@@ -43,10 +43,10 @@ import { RouterLink } from 'vue-router';
                         class="float-left w-6 mr-2"
                         alt=""
                       />
-                      Official documentation
+                      VOUCER PELAJAR 5%
                       
                     </li>
-                    <li class="mb-3">
+                    <!-- <li class="mb-3">
                       <img
                         src="../../public/img/icon-check.png"
                         class="float-left w-6 mr-2"
@@ -63,8 +63,8 @@ import { RouterLink } from 'vue-router';
                       />
                       SVG illustrations
                       
-                    </li>
-                    <li class="mb-3">
+                    </li> -->
+                    <!-- <li class="mb-3">
                       <img
                         src="../../public/img/icon-check.png"
                         class="float-left w-6 mr-2"
@@ -72,7 +72,7 @@ import { RouterLink } from 'vue-router';
                       />
                       Pre-built design screen
                       
-                    </li>
+                    </li> -->
                   </ul>
                   <RouterLink
                   to="/success"
@@ -85,18 +85,18 @@ import { RouterLink } from 'vue-router';
               <div>
                 <div class="p-8 border rounded-3xl">
                   <h1 class="text-5xl font-semibold">
-                    IDR 9,000 <span class="text-xl font-light text-gray-500">/month</span>
+                    IDR 450K  <span class="text-xl font-light text-gray-500">/PLATINUM</span>
                   </h1>
                   <h2 class="text-lg font-semibold mt-7">Gold Plan</h2>
                   <p class="mb-6 text-gray-500">Suitable for big company</p>
-                  <ul class="mb-6 text-gray-700">
+                  <ul class="mb-6 text-gray-700"> 
                     <li class="mb-3">
                       <img
                         src="../../public/img/icon-check.png"
                         class="float-left w-6 mr-2"
                         alt=""
                       />
-                      Customizable layers
+                      KEUNTUNGAN CUSTOME DESIGN
                       
                     </li>
                     <li class="mb-3">
@@ -105,7 +105,7 @@ import { RouterLink } from 'vue-router';
                         class="float-left w-6 mr-2"
                         alt=""
                       />
-                      Official documentation
+                      VOUCER BELANJA 10%-15%
                       
                     </li>
                     <li class="mb-3">
@@ -114,7 +114,7 @@ import { RouterLink } from 'vue-router';
                         class="float-left w-6 mr-2"
                         alt=""
                       />
-                      SVG icons
+                     PEMBELIAN DENGAN JUMLAH BANYAK
                       
                     </li>
                     <li class="mb-3">
@@ -123,10 +123,10 @@ import { RouterLink } from 'vue-router';
                         class="float-left w-6 mr-2"
                         alt=""
                       />
-                      SVG illustrations
+                      MENDAPATKAN PRIORITAS PEMBELIAN
                       
                     </li>
-                    <li class="mb-3">
+                    <!-- <li class="mb-3">
                       <img
                         src="../../public/img/icon-check.png"
                         class="float-left w-6 mr-2"
@@ -134,8 +134,8 @@ import { RouterLink } from 'vue-router';
                       />
                       Pre-built design screen
                       
-                    </li>
-                    <li class="mb-3">
+                    </li> -->
+                    <!-- <li class="mb-3">
                       <img
                         src="../../public/img/icon-check.png"
                         class="float-left w-6 mr-2"
@@ -143,8 +143,8 @@ import { RouterLink } from 'vue-router';
                       />
                       Coded template
                       
-                    </li>
-                    <li class="mb-3">
+                    </li> -->
+                    <!-- <li class="mb-3">
                       <img
                         src="../../public/img/icon-check.png"
                         class="float-left w-6 mr-2"
@@ -152,8 +152,8 @@ import { RouterLink } from 'vue-router';
                       />
                       Support 24/7
                       
-                    </li>
-                    <li class="mb-3">
+                    </li> -->
+                    <!-- <li class="mb-3">
                       <img
                         src="../../public/img/icon-check.png"
                         class="float-left w-6 mr-2"
@@ -161,8 +161,8 @@ import { RouterLink } from 'vue-router';
                       />
                       Private designer group
                       
-                    </li>
-                    <li class="mb-3">
+                    </li> -->
+                    <!-- <li class="mb-3">
                       <img
                         src="../../public/img/icon-check.png"
                         class="float-left w-6 mr-2"
@@ -170,7 +170,7 @@ import { RouterLink } from 'vue-router';
                       />
                       Unlock cloning app
                       
-                    </li>
+                    </li> -->
                   </ul>
                   <RouterLink
                   to="/success"

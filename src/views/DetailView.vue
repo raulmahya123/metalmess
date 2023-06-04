@@ -13,7 +13,7 @@ onMounted(() => {
       <div class="flex flex-row flex-wrap py-4">
         <main role="main" class="w-full px-4 pt-1 sm:w-2/3 md:w-2/3">
           <h1 class="mb-2 text-3xl font-bold leading-normal tracking-tight text-gray-900 sm:text-4xl md:text-4xl">
-            RoboCrypto UI Kit
+           GOLANGGS
           </h1>
           <p class="text-gray-500">Build your next coin startup</p>
          <Gallery/>
@@ -66,26 +66,26 @@ onMounted(() => {
                 <h1 class="mt-5 mb-3 font-semibold text-md">Great Features</h1>
                 <ul class="mb-6 text-gray-500">
                   <li class="mb-2">
-                    Customizable layers
+                    DESIGN SYSTEM
                     <img src="../../public/img/icon-check.png" class="float-right w-5 mt-1" alt="">
                   </li>
                   <li class="mb-2">
-                    Documentation
+                    KECE
                     <img src="../../public/img/icon-check.png" class="float-right w-5 mt-1" alt="">
                   </li>
                   <li class="mb-2">
-                    Icon set design
+                    GANTENG
                     <img src="../../public/img/icon-check.png" class="float-right w-5 mt-1" alt="">
                   </li>
                   <li class="mb-2">
-                    Pre-built UI screens
+                    PINTER
                     <img src="../../public/img/icon-check.png" class="float-right w-5 mt-1" alt="">
                   </li>
                 </ul>
               </div>
               <RouterLink to="/pricing"
                 class="inline-flex items-center justify-center w-full px-8 py-3 text-base font-medium text-white bg-indigo-600 border border-transparent rounded-full hover:bg-indigo-700 md:py-2 md:text-md md:px-10 hover:shadow">
-                Download Now
+                BELI
               </RouterLink>
             </div>
           </div>

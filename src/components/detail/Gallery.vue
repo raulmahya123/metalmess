@@ -1,13 +1,13 @@
 <script setup>
 import { ref } from 'vue';
 const galleries = ref([
-    {id:1 , image:'gallery-2.png'},
-    {id:2 , image:'gallery-3.png'},
-    {id:3 , image:'gallery-4.png'},
-    {id:4 , image:'gallery-5.png'},
+    {id:1 , image:'logo belakang belakang putih.png'},
+    {id:2 , image:'logo depan.png'},
+    {id:3 , image:'mockup belakang.png'},
+    {id:4 , image:'mockup belakang.png'},
 
 ])
-const defaultImage = ref('gallery-1.png')
+const defaultImage = ref('mockup belakang.png')
 
 function changeImage(image){
     defaultImage.value = image
